@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 38B9-4B61
+
+ Directory of C:\tmp\test
+
+20/06/2018  16:31    <DIR>          .
+20/06/2018  16:31    <DIR>          ..
+20/06/2018  16:31                 0 filelist.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  198.223.663.104 bytes free
