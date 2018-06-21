@@ -1,0 +1,13 @@
+ Volume in drive C is System
+ Volume Serial Number is 38B9-4B61
+
+ Directory of C:\tmp\clone\test
+
+21/06/2018  13:37    <DIR>          .
+21/06/2018  13:37    <DIR>          ..
+21/06/2018  13:33               326 filelist.txt
+21/06/2018  13:33               377 filelist2.txt
+21/06/2018  13:37                 0 newfile.txt
+21/06/2018  13:36                18 prueba.txt
+               4 File(s)            721 bytes
+               2 Dir(s)  198.211.391.488 bytes free
